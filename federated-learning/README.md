@@ -1,0 +1,3 @@
+For the Federated Learning setup, PySyft is used as the Federated Learning framework with  Docker virtualisation being used to define a distributed system composed of several services. These services can communicate with each other over the "grid_default" network and are isolated within their own containers to simulate the distributed nature of the system. 
+
+The setup used within AMdEX POC environment is included in this folder. 
