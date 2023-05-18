@@ -1,1 +1,1 @@
-# ddm-fl-project-2023
+The research investigates the value of a neutral data exchange based Digital Data Marketplace (DDM) using Federated Learning. More specifically, for consortium driven machine learning development for aircraft maintenance, a DDM is able to allow airlines to make their aircraft operational data available to Federated Learning workflows. An aircraft predictive maintenance use case using public dataset is implemented to evaluate the extent of value gained from additional airline data using Federated Learning.
